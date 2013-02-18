@@ -7,6 +7,6 @@ setup(
 	author='Ben Ihle',
 	author_email='ben@not.tell.ing',
 	url='https://github.com/ihle/misc',
-	scripts=['bdns/bdns.py'],
+	scripts=['scripts/bdns.py'],
 	install_requires=['dnspython', 'pyyaml']
 )
